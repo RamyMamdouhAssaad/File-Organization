@@ -1,0 +1,5 @@
+bin\Debug\Record_index_file.exe
+bin\Debug\Record_index_file.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Record_index_file.exe
+obj\Debug\Record_index_file.pdb

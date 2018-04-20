@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\New folder\Record_index_file_startOf record\obj\Debug\Record_index_file.exe
+C:\Users\HP\Desktop\New folder\Record_index_file_startOf record\obj\Debug\Record_index_file.pdb
+C:\Users\HP\Desktop\New folder\Record_index_file_startOf record\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\HP\Desktop\New folder\Record_index_file_startOf record\bin\Debug\Record_index_file.exe
+C:\Users\HP\Desktop\New folder\Record_index_file_startOf record\bin\Debug\Record_index_file.pdb
+I:\Labs\File Organization\Lab 05\Record Index File\obj\Debug\Record_index_file.exe
+I:\Labs\File Organization\Lab 05\Record Index File\obj\Debug\Record_index_file.pdb

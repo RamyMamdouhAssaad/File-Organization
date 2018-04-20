@@ -1,0 +1,27 @@
+C:\Users\HP\Desktop\New folder\Record_index_file_startOf record\obj\Debug\Record_index_file.exe
+C:\Users\HP\Desktop\New folder\Record_index_file_startOf record\obj\Debug\Record_index_file.pdb
+C:\Users\HP\Desktop\New folder\Record_index_file_startOf record\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\HP\Desktop\New folder\Record_index_file_startOf record\bin\Debug\Record_index_file.exe
+C:\Users\HP\Desktop\New folder\Record_index_file_startOf record\bin\Debug\Record_index_file.pdb
+I:\Labs\File Organization\Lab 05\Record Index File\obj\Debug\Record_index_file.exe
+I:\Labs\File Organization\Lab 05\Record Index File\obj\Debug\Record_index_file.pdb
+C:\Documents and Settings\HP\Desktop\Lab 05\Record Index File\obj\Debug\Record_index_file.pdb
+C:\Documents and Settings\HP\Desktop\Lab 05\Record Index File\bin\Debug\Record_index_file.exe
+C:\Documents and Settings\HP\Desktop\Lab 05\Record Index File\bin\Debug\Record_index_file.pdb
+C:\Documents and Settings\HP\Desktop\Lab 05\Record Index File\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\HP\Desktop\Lab 05\Record Index File\obj\Debug\Record_index_file.exe
+D:\2nd Term\File Organization\Record\Record Index File\obj\Debug\Record_index_file.exe
+D:\2nd Term\File Organization\Record\Record Index File\obj\Debug\Record_index_file.pdb
+D:\2nd Term\File Organization\Record\Record Index File\bin\Debug\Record_index_file.exe
+D:\2nd Term\File Organization\Record\Record Index File\bin\Debug\Record_index_file.pdb
+D:\2nd Term\File Organization\Record\Record Index File\obj\Debug\ResolveAssemblyReference.cache
+M:\Record\Record Index File\obj\Debug\Record_index_file.exe
+M:\Record\Record Index File\obj\Debug\Record_index_file.pdb
+C:\Documents and Settings\asdaffsa\Desktop\Record Index File\obj\Debug\Record_index_file.exe
+C:\Documents and Settings\asdaffsa\Desktop\Record Index File\obj\Debug\Record_index_file.pdb
+E:\Samiha's issues\FileOBUE\Record Index File\obj\Debug\Record_index_file.exe
+E:\Samiha's issues\FileOBUE\Record Index File\obj\Debug\Record_index_file.pdb
+E:\Samiha's issues\FileOBUE\Record Index File\bin\Debug\Record_index_file.exe
+E:\Samiha's issues\FileOBUE\Record Index File\bin\Debug\Record_index_file.pdb
+G:\studies\Year one semester 2 studies\File organization\Record Index File\obj\Debug\Record_index_file.exe
+G:\studies\Year one semester 2 studies\File organization\Record Index File\obj\Debug\Record_index_file.pdb

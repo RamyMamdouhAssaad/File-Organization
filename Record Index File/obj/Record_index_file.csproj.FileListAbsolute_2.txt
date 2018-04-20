@@ -1,0 +1,5 @@
+D:\Faculty\2nd Term 2007\File Organization\6th Week\Record_index_file_startOf record\obj\Debug\Record_index_file.exe
+D:\Faculty\2nd Term 2007\File Organization\6th Week\Record_index_file_startOf record\obj\Debug\Record_index_file.pdb
+D:\Faculty\2nd Term 2007\File Organization\6th Week\Record_index_file_startOf record\bin\Debug\Record_index_file.exe
+D:\Faculty\2nd Term 2007\File Organization\6th Week\Record_index_file_startOf record\bin\Debug\Record_index_file.pdb
+D:\Faculty\2nd Term 2007\File Organization\6th Week\Record_index_file_startOf record\obj\Debug\ResolveAssemblyReference.cache
